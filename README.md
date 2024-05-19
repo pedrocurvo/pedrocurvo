@@ -1,5 +1,4 @@
-## Hi there! 👋
-### I'm Pedro Curvo
+## 👋 Hi there! I'm Pedro Curvo
 - 🤖 ML/AI Enthusiast 
 - ⚡ [Check my website](https://pedrocurvo.github.io)
 
@@ -38,4 +37,15 @@ Here are some ideas to get you started:
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedrocurvo&theme=default" alt="Akanksha's GitHub Contribution"/>
   </a>
 </p>
+
+<h3> How to reach me </h3>
+<div>
+    <a href="https://www.linkedin.com/in/pedro-curvo" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="125px">
+    </a>&nbsp
+    <a href="https://www.buymeacoffee.com/pcurvo" target="_blank">    
+        <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="30" width="125"
+    </a>&nbsp
+    
+</div>
 
