@@ -41,6 +41,9 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+### Publications:
+- [Using Deep Learning to Design High Aspect Ratio Fusion Devices](https://arxiv.org/abs/2409.00564)
+
 <h3> How to reach me </h3>
 <div>
     <a href="https://www.linkedin.com/in/pedro-curvo" target="_blank">
