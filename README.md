@@ -18,7 +18,10 @@
 - [Using Deep Learning to Design High Aspect Ratio Fusion Devices](https://arxiv.org/abs/2409.00564)
 
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats 
+<details>
+<summary> Extend </summary>
+  
 ![](https://github-readme-stats.vercel.app/api?username=pedrocurvo&theme=default&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pedrocurvo&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocurvo&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
@@ -35,13 +38,14 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=pedrocurvo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+</details>
+
+## 💰 You can help me by Donating
   <div>
     <a href="https://www.buymeacoffee.com/pcurvo" target="_blank">    
         <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="30" width="125"
-    </a>&nbsp    
+    </a>   
   </div> 
-
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
