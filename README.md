@@ -10,7 +10,7 @@
 - ⚡ [Check my website](https://pedrocurvo.github.io)
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/pedrocurvo?tab=repositories) and on my [portfolio](https://pedrocurvo.github.io).
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/pedro-curvo/)
-- 📝 &nbsp; Checkout my [resume](https://www.pedrocurvo.com/resume.pdf)
+- 📝 &nbsp; Checkout my [resume](https://pedrocurvo.com/resume.pdf)
 - 🔭  &nbsp;Fun facts: I love ice cream 🍦 and going to the cinema
 
 
