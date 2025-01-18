@@ -1,8 +1,23 @@
-# 👋 Hi there! I'm Pedro Curvo
-🤖 ML/AI Enthusiast <br>🌱 I’m currently taking a MSc in Artificial Intelligence @UvA<br>⚡ [Check my website](https://pedrocurvo.github.io)<br>📫 How to reach me: LinkedIn<br>🔭 Fun facts: I love ice cream 🍦 and going to the cinema  
+# 👋 Hi there! I'm Pedro Curvo 
 
 
-## 🌐 Socials:
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocurvo&theme=dark&show_icons=false&hide_border=true&layout=compact&hide_title=true&bg_color=00000000" alt="most used languages" width="360px" style="margin-bottom: 8px" />
+
+
+### More About Me
+- 🤖 &nbsp; ML/AI Researcher
+- 🌱 &nbsp; I’m currently taking an MSc in Artificial Intelligence @UvA
+- ⚡ [Check my website](https://pedrocurvo.github.io)
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/pedrocurvo?tab=repositories) and on my [portfolio](https://pedrocurvo.github.io).
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/pedro-curvo/)
+- 📝 &nbsp; Checkout my [resume](https://www.pedrocurvo.com/resume.pdf)
+- 🔭  &nbsp;Fun facts: I love ice cream 🍦 and going to the cinema
+
+
+<!-- (💬 [Ask me](https://calendly.com/abhinaythakur/30min) about anything tech related, I am happy to help.) -->
+
+
+[//]: # (## 🌐 Socials:)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/pedro.curvo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pedro-curvo/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@PedroCurvo)
 
 # 💻 Tech Stack:
