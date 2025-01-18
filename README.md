@@ -55,7 +55,9 @@
 
 </details>
 
-## 💰 You can help me by Donating
+<!-- ## 💰 You can help me by Donating -->
+
+---
   <div>
     <a href="https://www.buymeacoffee.com/pcurvo" target="_blank">    
         <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="30" width="125"
