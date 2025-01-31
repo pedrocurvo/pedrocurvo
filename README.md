@@ -1,4 +1,5 @@
-# 👋 Hi there! I'm Pedro Curvo 
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>! I'm Pedro Curvo 
+<!--👋 -->
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocurvo&theme=dark&show_icons=false&hide_border=true&layout=compact&hide_title=true&bg_color=00000000" alt="most used languages" width="360px" style="margin-bottom: 8px" />
