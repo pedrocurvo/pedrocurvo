@@ -16,25 +16,6 @@
 
 ---
 
-I'm an incoming PhD candidate, currently finishing my MSc in Artificial Intelligence at the **University of Amsterdam**, working on generative modeling — mainly **flow matching** and **diffusion models** — with AMLab, under Jan-Willem van de Meent. My physics background (BSc, Engineering Physics, IST Lisbon) shows up everywhere in how I think about these models: as dynamical systems, not black boxes.
-
-The thread running through my work: models that adapt **through data**, not just through parameter updates.
-
-### Currently
-
-- 🎓 Finishing my MSc thesis on reference-guided flow matching
-- 🏆 Presented an MSPT poster at **CVPR 2026** (Highlight)
-- 🧪 TA for Mechanistic Interpretability @ UvA
-- 🌍 Based in Amsterdam, from Portugal
-
-### Selected Publications
-
-| Paper | Venue | Link |
-|---|---|---|
-| **Follow the Mean: Reference-Guided Flow Matching** | 2026 | [arXiv:2605.10302](https://arxiv.org/abs/2605.10302) |
-| **Multi-Scale Patch Transformer** | CVPR 2026 — *Highlight* | [arXiv:2512.01738](https://arxiv.org/abs/2512.01738) |
-| **Deep Learning for High Aspect Ratio Fusion Devices** | 2024 | [arXiv:2409.00564](https://arxiv.org/abs/2409.00564) |
-
 ### Stack
 
 `Python` `PyTorch` `C++` `TypeScript` `React`
