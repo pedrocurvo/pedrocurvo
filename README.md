@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <em>Incoming PhD Candidate</em>
+  <em>PhD Candidate</em>
 </p>
 
 <p align="center">
