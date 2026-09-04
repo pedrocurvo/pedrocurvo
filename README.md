@@ -20,8 +20,4 @@
 
 `Python` `PyTorch` `C++` `TypeScript` `React`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocurvo&layout=compact&theme=minimal&hide_border=true&hide_title=true" height="150" alt="top languages" />
-</p>
-
 <p align="center"><sub>If you're into flow matching, diffusion models, or just want to talk physics-meets-ML — my inbox is open.</sub></p>
